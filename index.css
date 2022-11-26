@@ -1,0 +1,44 @@
+*{
+    margin:30px;
+    background-image: url("marvel/homepage-background.png");
+    background-attachment: fixed;
+  
+}
+.head{
+    color:red;
+    font-size: 50px;
+    font-style: oblique;
+    text-shadow: 30px black;
+}
+.para{
+    color:white;
+    padding-top: 20px;
+    font-size: 25px;
+    font-style: oblique;
+    display: flex;
+    justify-content: center;
+}
+body{
+    color: white;
+}
+
+.imp{
+    padding-top:40px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+.links{
+     
+    list-style: none;
+}
+ul{
+    font-weight: 1000;
+}
+.btn{
+    color:white;
+    border: 3px solid grey;
+    
+    align-items: center;
+    font-size: 30px;
+}
